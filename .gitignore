@@ -1,0 +1,7 @@
+.idea/
+.sf/
+.sfdx/
+IlluminatedCloud/
+LWCPackage/
+node_modules/
+package-lock.json
